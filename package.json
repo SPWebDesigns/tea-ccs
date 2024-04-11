@@ -1,11 +1,10 @@
 {
-  "name": "hello-armadillo",
+  "name": "hello-CCSarmadillo",
   "version": "1.0.2",
   "description": "CCS armadillo says hello world",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alicans/alitea.git",
-    "directory": "hellos/hello-armadillo"
+    "url": "https://github.com/SPWebDesigns/tea-ccs.git"
   },
   "main": "index.js",
   "author": "CCS",
